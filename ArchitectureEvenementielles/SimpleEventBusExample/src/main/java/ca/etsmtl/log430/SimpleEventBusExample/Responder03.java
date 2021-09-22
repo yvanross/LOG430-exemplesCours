@@ -7,9 +7,10 @@ import java.util.concurrent.TimeUnit;
 // Someone interested in "Hello" events
 public class Responder03 {
     @Subscribe
-    public void someoneSaidHello(HelloEvent event) throws InterruptedException {
+    public void someoneSaidHello(HelloEvent event) throws InterruptedException { 
         System.out.println("Source of event said \"" + event.getMessage() + "\"");
         System.out.println("Responder03 says Hello there and goes to sleep...");
-        TimeUnit.SECONDS.sleep(1);
+        TimeUnit.SECONDS.sleep(5);
+     
     }
 }

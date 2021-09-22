@@ -16,7 +16,7 @@
 	<bean id="add" class="com.wrox.begspring.OpAdd" />
 
 	<bean id="opsbean" class="com.wrox.begspring.Calculate">
-		<property name="ops" ref="add" />
+		<property name="ops" ref="multiply" />
 		<property name="writer" ref="screen" />
 	</bean>
 
@@ -25,7 +25,8 @@
 			expression="execution(* com.wrox.begspring.Operation.*(..))" />
 
 		<aop:aspect id="loggingAspect" ref="logaspect">
-			<aop:before method="logMethodExecution" pointcut-ref="loggingOperation" />
+			<aop:before method="logMethodExecutionIn" pointcut-ref="loggingOperation" />
+			<aop:after method="logMethodExecutionOut" pointcut-ref="loggingOperation" />
 		</aop:aspect>
 	</aop:config>
 	

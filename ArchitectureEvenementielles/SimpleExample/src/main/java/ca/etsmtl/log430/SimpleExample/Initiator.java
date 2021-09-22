@@ -4,7 +4,7 @@ package ca.etsmtl.log430.SimpleExample;
 public class Initiator {
 
     public void sayHello() {
-        System.out.println("Hello!!");
+        System.out.println("Hello from initiator!!");
 
         Responder01 responder01 = new Responder01();
         Responder02 responder02 = new Responder02();

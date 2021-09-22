@@ -4,7 +4,6 @@ import com.google.inject.AbstractModule;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 import com.google.inject.matcher.Matchers;
-
 public class CalculateModule extends AbstractModule {
 
 	@Override
@@ -14,7 +13,7 @@ public class CalculateModule extends AbstractModule {
 		 * Association de Operation (interface) a l'un de: OpMultiply (classe
 		 * concrete pour mulitplier) OpAdd (classe concrete pour additionner)
 		 */
-		bind(Operation.class).to(OpMultiply.class);
+		bind(Operation.class).to(OpAdd.class);
 
 		/*
 		 * Association de ResultWriter (interface) a l'un de: ScreenWriter
@@ -30,7 +29,7 @@ public class CalculateModule extends AbstractModule {
 		 * Operation (i.e., toute classe implementant l'interface Operation)
 		 */
 		bindInterceptor(Matchers.subclassesOf(Operation.class), Matchers.any(),
-				new LoggingInterceptor());
+				new MyLoggingInterceptor());
 	}
 
 	public static void main(String[] args) {

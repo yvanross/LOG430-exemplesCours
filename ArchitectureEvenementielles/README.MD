@@ -4,3 +4,8 @@ Démonstration de l'utilisation de `EventBus` de la librairie [Google Guava](htt
   * **SimpleExample**: invocation de méthode standard.
   * **SimpleEventExample**: utilisation d'un `Listener` personalisé pour propager un événement.
   * **SimpleEventBusExample**: utilisation d'un `EventBus` pour propager un événement.
+
+Pour exécuté
+  * aller dans le répertoire du projet 
+  * mvn compile
+  * mvn exec:java

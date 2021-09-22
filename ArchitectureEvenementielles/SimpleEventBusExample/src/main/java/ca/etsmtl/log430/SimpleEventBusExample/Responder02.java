@@ -8,8 +8,8 @@ import java.util.concurrent.TimeUnit;
 public class Responder02 {
     @Subscribe
     public void someoneSaidHello(HelloEvent event) throws InterruptedException {
-        System.out.println("Source of event said \"" + event.getMessage() + "\"");
+       System.out.println("Source of event said \"" + event.getMessage() + "\"");
         System.out.println("Responder02 says Hello there and goes to sleep...");
-        TimeUnit.SECONDS.sleep(1);
+        TimeUnit.SECONDS.sleep(5);
     }
 }

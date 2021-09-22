@@ -1,6 +1,6 @@
-/Users/rossypro/sources/LOG430/ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/Responder01.java
-/Users/rossypro/sources/LOG430/ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/Test.java
-/Users/rossypro/sources/LOG430/ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/Responder02.java
-/Users/rossypro/sources/LOG430/ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/Responder03.java
-/Users/rossypro/sources/LOG430/ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/Initiator.java
-/Users/rossypro/sources/LOG430/ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/HelloEvent.java
+/Users/rossypro/sources/ets/log430/LOG430-ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/Initiator.java
+/Users/rossypro/sources/ets/log430/LOG430-ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/Responder01.java
+/Users/rossypro/sources/ets/log430/LOG430-ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/Test.java
+/Users/rossypro/sources/ets/log430/LOG430-ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/Responder03.java
+/Users/rossypro/sources/ets/log430/LOG430-ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/Responder02.java
+/Users/rossypro/sources/ets/log430/LOG430-ExemplesCours/ArchitectureEvenementielles/SimpleEventBusExample/src/main/java/ca/etsmtl/log430/SimpleEventBusExample/HelloEvent.java

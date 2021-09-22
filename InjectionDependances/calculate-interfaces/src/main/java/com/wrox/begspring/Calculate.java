@@ -2,7 +2,7 @@ package com.wrox.begspring;
 
 public class Calculate {
     private Operation    ops = new OpMultiply();
-    private ResultWriter wtr = new DataFileWriter();
+    private ResultWriter wtr = new ScreenWriter();
 
     public static void main(String[] args) {
         Calculate calc = new Calculate();
