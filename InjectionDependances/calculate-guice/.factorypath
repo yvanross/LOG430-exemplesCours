@@ -1,0 +1,8 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/google/inject/guice/4.1.0/guice-4.1.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/javax/inject/javax.inject/1/javax.inject-1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/google/guava/guava/19.0/guava-19.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/logging/log4j/log4j-core/2.9.1/log4j-core-2.9.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/logging/log4j/log4j-api/2.9.1/log4j-api-2.9.1.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>

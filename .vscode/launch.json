@@ -1,0 +1,103 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) with Arguments Prompt",
+      "request": "launch",
+      "mainClass": "",
+      "args": "${command:SpecifyProgramArgs}"
+    },
+
+    {
+      "type": "java",
+      "name": "Debug (Launch) with Arguments Prompt",
+      "request": "launch",
+      "mainClass": "",
+      "args": "${command:SpecifyProgramArgs}"
+    },
+    
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Test<SimpleEventBusExample>",
+      "request": "launch",
+      "mainClass": "ca.etsmtl.log430.SimpleEventBusExample.Test",
+      "projectName": "SimpleEventBusExample"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Test<SimpleEventExample>",
+      "request": "launch",
+      "mainClass": "ca.etsmtl.log430.SimpleEventExample.Test",
+      "projectName": "SimpleEventExample"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Test<SimpleExample>",
+      "request": "launch",
+      "mainClass": "ca.etsmtl.log430.SimpleExample.Test",
+      "projectName": "SimpleExample"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CalculateModule<calculate-guice>",
+      "request": "launch",
+      "mainClass": "com.wrox.begspring.CalculateModule",
+      "projectName": "calculate-guice"
+      "args": "${command:SpecifyProgramArgs}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Calculate<calculate-interfaces>",
+      "request": "launch",
+      "mainClass": "com.wrox.begspring.Calculate",
+      "projectName": "calculate-interfaces"
+      "args": "${command:SpecifyProgramArgs}"
+        },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Calculate<calculate-spring>",
+      "request": "launch",
+      "mainClass": "com.wrox.begspring.Calculate",
+      "projectName": "calculate-spring"
+      "args": "${command:SpecifyProgramArgs}"
+      },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Calculate<calculate>",
+      "request": "launch",
+      "mainClass": "com.wrox.begspring.Calculate",
+      "projectName": "calculate",
+      "args": "${command:SpecifyProgramArgs}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Loanmain_JbiLoan<jbiloan-flat>",
+      "request": "launch",
+      "mainClass": "jbiloan.Loanmain_JbiLoan",
+      "projectName": "jbiloan-flat"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-JbiLoan<jbiloan>",
+      "request": "launch",
+      "mainClass": "loanmain.JbiLoan",
+      "projectName": "jbiloan"
+    }
+  ]
+}

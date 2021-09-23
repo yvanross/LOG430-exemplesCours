@@ -1,0 +1,38 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+   
+    {
+      "type": "java",
+      "name": "Debug (Launch)-CalculateModule<calculate-guice>",
+      "request": "launch",
+      "mainClass": "com.wrox.begspring.CalculateModule",
+      "projectName": "calculate-guice"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Calculate<calculate-interfaces>",
+      "request": "launch",
+      "mainClass": "com.wrox.begspring.Calculate",
+      "projectName": "calculate-interfaces"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Calculate<calculate-spring>",
+      "request": "launch",
+      "mainClass": "com.wrox.begspring.Calculate",
+      "projectName": "calculate-spring",
+      "args": "3 4"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Calculate<calculate>",
+      "request": "launch",
+      "mainClass": "com.wrox.begspring.Calculate",
+      "projectName": "calculate"
+    }
+  ]
+}
