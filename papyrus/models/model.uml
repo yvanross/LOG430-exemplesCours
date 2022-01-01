@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_c81N4Lb7EeaSw9A_OYTxFA" name="RootElement">
+  <packagedElement xmi:type="uml:Package" xmi:id="_6V1dULb9EeaSw9A_OYTxFA" name="Package1">
+    <ownedComment xmi:type="uml:Comment" xmi:id="_-RtdALb9EeaSw9A_OYTxFA" annotatedElement="_6V1dULb9EeaSw9A_OYTxFA">
+      <body>this package is named Package 1</body>
+    </ownedComment>
+    <packagedElement xmi:type="uml:Package" xmi:id="_ClQV0Lb-EeaSw9A_OYTxFA" name="subpackage">
+      <ownedComment xmi:type="uml:Comment" xmi:id="_UIR8ILcIEeaSw9A_OYTxFA" annotatedElement="_ClQV0Lb-EeaSw9A_OYTxFA">
+        <body>the comment of the subpackage shall be present in the generated document</body>
+      </ownedComment>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_6mZB0Lb9EeaSw9A_OYTxFA" name="Package2">
+    <ownedComment xmi:type="uml:Comment" xmi:id="_Whvt4LcIEeaSw9A_OYTxFA" annotatedElement="_6mZB0Lb9EeaSw9A_OYTxFA">
+      <body>the package 2 is following chapter 1</body>
+    </ownedComment>
+    <packagedElement xmi:type="uml:Class" xmi:id="_hYbSoLb_EeaSw9A_OYTxFA" name="Class1">
+      <ownedComment xmi:type="uml:Comment" xmi:id="_Yhn68LcIEeaSw9A_OYTxFA" annotatedElement="_hYbSoLb_EeaSw9A_OYTxFA">
+        <body>this class has a composite structure diagram</body>
+      </ownedComment>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_M_ZqYLcHEeaSw9A_OYTxFA" name="Attribute1"/>
+    </packagedElement>
+  </packagedElement>
+</uml:Model>

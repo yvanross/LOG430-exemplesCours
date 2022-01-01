@@ -15,3 +15,5 @@ Les exemples tels que livrés ici sont autonomes. Pour que ces applications fonc
   * se déplacer dans chacun des sous-répertoires et lancer `mvn exec:java -Dexec.args="4 11"`
 
 Pour les détails de ce tutoriel, consultez le document d'origine.
+
+jenv global 1.8  # pour utiliser java 1.8

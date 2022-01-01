@@ -13,7 +13,7 @@ public class CalculateModule extends AbstractModule {
 		 * Association de Operation (interface) a l'un de: OpMultiply (classe
 		 * concrete pour mulitplier) OpAdd (classe concrete pour additionner)
 		 */
-		bind(Operation.class).to(OpAdd.class);
+		bind(Operation.class).to(OpMultiply.class);
 
 		/*
 		 * Association de ResultWriter (interface) a l'un de: ScreenWriter

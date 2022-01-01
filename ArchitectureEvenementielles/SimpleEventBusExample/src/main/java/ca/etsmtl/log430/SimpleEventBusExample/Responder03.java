@@ -10,7 +10,7 @@ public class Responder03 {
     public void someoneSaidHello(HelloEvent event) throws InterruptedException { 
         System.out.println("Source of event said \"" + event.getMessage() + "\"");
         System.out.println("Responder03 says Hello there and goes to sleep...");
-        TimeUnit.SECONDS.sleep(5);
+        TimeUnit.SECONDS.sleep(3);
      
     }
 }

@@ -10,3 +10,6 @@ This version of the example uses [JMockit](http://jmockit.github.io/) as the moc
 * The mockist folder contains the behavior-based (mocks) version of the same test
 
 Both tests attempt to reproduce as closely as possible the concepts described in the article.
+
+mvn compile
+mvn test
