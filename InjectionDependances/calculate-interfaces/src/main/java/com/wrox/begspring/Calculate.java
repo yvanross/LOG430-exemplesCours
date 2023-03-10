@@ -1,7 +1,7 @@
 package com.wrox.begspring;
 
 public class Calculate {
-    private Operation    ops = new OpMultiply();
+    private Operation    ops = new OpAdd();
     private ResultWriter wtr = new ScreenWriter();
 
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
-/Users/rossypro/sources/ets/log430-git/LOG430-ExemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/Operation.java
-/Users/rossypro/sources/ets/log430-git/LOG430-ExemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/OpMultiply.java
-/Users/rossypro/sources/ets/log430-git/LOG430-ExemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/DataFileWriter.java
-/Users/rossypro/sources/ets/log430-git/LOG430-ExemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/Calculate.java
-/Users/rossypro/sources/ets/log430-git/LOG430-ExemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/ScreenWriter.java
-/Users/rossypro/sources/ets/log430-git/LOG430-ExemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/ResultWriter.java
-/Users/rossypro/sources/ets/log430-git/LOG430-ExemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/OpAdd.java
+/Users/yvanross/sources/log430/LOG430-exemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/OpAdd.java
+/Users/yvanross/sources/log430/LOG430-exemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/OpMultiply.java
+/Users/yvanross/sources/log430/LOG430-exemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/DataFileWriter.java
+/Users/yvanross/sources/log430/LOG430-exemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/ResultWriter.java
+/Users/yvanross/sources/log430/LOG430-exemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/ScreenWriter.java
+/Users/yvanross/sources/log430/LOG430-exemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/Operation.java
+/Users/yvanross/sources/log430/LOG430-exemplesCours/InjectionDependances/calculate-interfaces/src/main/java/com/wrox/begspring/Calculate.java
